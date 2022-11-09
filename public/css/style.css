@@ -10821,3 +10821,12 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+header {
+  background-color: white;
+}
+header .navbar-nav {
+  gap: 70px;
+}
+header li {
+  display: block;
+}
