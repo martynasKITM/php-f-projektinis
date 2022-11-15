@@ -10821,28 +10821,12 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-<<<<<<< HEAD
 header {
-  background-color: white;
+  background-color: red;
 }
 header .navbar-nav {
   gap: 70px;
 }
 header li {
   display: block;
-=======
-#Contact {
-  background-color: #2c3878;
-  border: 1px solid #3c3c3c;
-}
-
-.nav-item {
-  text-align: center;
-  font-family: "Poppins", sans-serif;
-}
-
-a:hover {
-  -webkit-text-decoration: underline cornflowerblue;
-          text-decoration: underline cornflowerblue;
->>>>>>> d37410ebd3c3889866d2bec6c6998f3e1f3c0811
 }

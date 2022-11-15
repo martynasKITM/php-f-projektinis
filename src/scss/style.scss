@@ -1,9 +1,4 @@
 @import '~bootstrap';
 @import 'var';
-<<<<<<< HEAD
-@import 'mixins';
-@import 'components/header';
-=======
-@import 'components/header';
-@import 'mixins';
->>>>>>> d37410ebd3c3889866d2bec6c6998f3e1f3c0811
+@import 'components/portfolio/header.scss';
+@import 'components/portfolio/main.scss';
